@@ -241,3 +241,16 @@ h3 a:hover {
     display: inline-block;
   }
 }
+
+@media only screen and (max-width: 410px) {
+  .myPhotos img:hover {
+    transform: none;
+        transition: none;
+
+  }
+  
+  .mySocials img:hover {
+    transform: none;
+    transition: none;
+  }
+}
