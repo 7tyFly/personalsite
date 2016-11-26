@@ -231,4 +231,7 @@ h3 a:hover {
     max-width: 323px;
     display: inline-block;
   }
+  .mySocials a {
+    text-decoration: none;
+  }
 }
