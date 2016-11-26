@@ -242,7 +242,7 @@ h3 a:hover {
   }
 }
 
-@media only screen and (max-width: 410px) {
+@media only screen and (max-width: 424px) {
   .myPhotos img:hover {
     transform: none;
         transition: none;
@@ -252,5 +252,9 @@ h3 a:hover {
   .mySocials img:hover {
     transform: none;
     transition: none;
+  }
+  
+  nav ul li a {
+  font-size: 21px;
   }
 }
