@@ -184,6 +184,10 @@ h2:hover {
   box-shadow: 0 0 100px rgba(0, 0, 0, 1);
 }
 
+.mySocials a {
+ text-decoration: none;
+}
+
 footer {
   box-shadow: 0 0 100px rgba(0, 0, 0, 0.6);
   background: rgba(0, 0, 0, 0.7);
@@ -230,8 +234,5 @@ h3 a:hover {
     width: 100%;
     max-width: 323px;
     display: inline-block;
-  }
-  .mySocials a {
-    text-decoration: none;
   }
 }
