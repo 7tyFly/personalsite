@@ -93,6 +93,7 @@ nav ul li a:hover {
 .myInfo {
   margin: 0 auto;
   max-width: 825px;
+  padding-bottom: 10px;
   background: rgba(0, 0, 0, 0.6);
   box-shadow: 0 0 100px rgba(0, 0, 0, 0.5);
 }
@@ -126,7 +127,7 @@ nav ul li a:hover {
 
 h1 {
   font-family: 'Bungee', cursive;
-  background: rgba(0, 0, 0, 0.5);
+  background: rgba(0, 0, 0, 0.6);
   box-shadow: 0 0 100px rgba(0, 0, 0, 0.6);
   color: rgba(255, 255, 255, 0.8);
   margin-top: 40px;
@@ -140,6 +141,10 @@ h1 {
 
 h1:hover {
   color: rgba(255, 255, 255, 1);
+}
+
+#socials {
+  background: rgba(0, 0, 0, 0.7);
 }
 
 h2 {
@@ -181,7 +186,7 @@ h2:hover {
 
 footer {
   box-shadow: 0 0 100px rgba(0, 0, 0, 0.6);
-  background: rgba(0, 0, 0, 0.6);
+  background: rgba(0, 0, 0, 0.7);
   min-height: 60px;
 }
 
